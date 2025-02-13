@@ -6,7 +6,7 @@
 - Liliana Guevara-Guerrero
 
 # Scope
-The aim of our project is to search for patterns in the CPI for 3 foodstuffs categories: dairy, meats, and fruits and vegetables.  We want to get a general understanding of the data over the last 5 years in these categories and see if any patterns emerge, and then compapre this to historical data. 
+The aim of our project is to search for patterns in the CPI for 3 foodstuffs categories: dairy, meats, and fruits and vegetables.  We want to get a general understanding of the data over the last 5 years in these categories and see if any patterns emerge, and then compare this to historical data. 
 
 # Research Questions
 - Which (if any) of these groups have been subject to higher inflation, and which groups may be avoiding it. 
