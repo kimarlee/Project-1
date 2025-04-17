@@ -1,5 +1,5 @@
-# Adding DS.Store file
-.DS_Store
+#Adding DS.STORE
+**/.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
